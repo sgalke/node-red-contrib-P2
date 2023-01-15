@@ -11,7 +11,9 @@ A heuristic algorithm for dynamic calculation of the median and other quantiles.
 The estimates are produced dynamically as the observations are generated.
 The observations are not stored; therefore, the algorithm has a very small and fixed storage requirement regardless of the number of observations.
 
-
+Installation
+============
+Download the ....tgz archive and upload it with the node-red palette manager
 
 Configuration
 =============
