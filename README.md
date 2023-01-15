@@ -39,7 +39,7 @@ msg properties are not changed, except
 
 `msg.Quantile` - Object.
  property is added to the message with the resulting estimates for the configured quantile(s).
- if payload was an array on input, msg.Quantile will be the corresponding array.
+ if payload was an array on input, msg.Quantile will be the corresponding array of quantiles.
 
 Details
 =======
