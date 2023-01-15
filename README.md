@@ -27,9 +27,9 @@ the three quartils can be configured with `[0.25,0.5,0.75]` for example.
 Input
 =====
 
-`msg.payload` - number or array of numbers. the algorithm operates on numbers only. 
+`msg.payload` - number or array of numbers. the algorithm operates on numbers only. array data are processed as separate data streams for every array position.
 
-`msg.topic` - String. different topics are treated as separate data streams.
+`msg.topic` - String. different topics are also treated as separate data streams.
 
 
 Output
