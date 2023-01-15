@@ -13,7 +13,7 @@ The observations are not stored; therefore, the algorithm has a very small and f
 
 Installation
 ============
-Download the ....tgz archive and upload with the node-red palette manager.
+Download the ....tgz archive and upload with your the node-red palette manager.
 
 
 Configuration
